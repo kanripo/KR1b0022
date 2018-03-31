@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 尚書要義
-#+DATE: 2018-03-31 09:03:01.127275
+#+DATE: 2018-03-31 09:03:01.272311
 #+PROPERTY: ID KR1b0022
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 卷十四（原闕）
 <pb:KR1b0022_WYG_014-1a>¶
 欽定四庫全書¶
