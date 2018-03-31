@@ -1,0 +1,13 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 尚書要義
+#+DATE: 2018-03-31 09:03:01.106451
+#+PROPERTY: ID KR1b0022
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: WITNESS WYG    
+#+PROPERTY: JUAN 卷八（原闕）
+<pb:KR1b0022_WYG_008-1a>¶
+欽定四庫全書¶
+　尚書要義巻八¶
+　　　　　　　　　　　宋　魏了翁　撰¶
+(原闕)¶
+<pb:KR1b0022_WYG_008-1b>¶

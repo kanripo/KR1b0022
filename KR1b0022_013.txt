@@ -1,0 +1,13 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 尚書要義
+#+DATE: 2018-03-31 09:03:01.126250
+#+PROPERTY: ID KR1b0022
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: WITNESS WYG    
+#+PROPERTY: JUAN 卷十三（原闕）
+<pb:KR1b0022_WYG_013-1a>¶
+欽定四庫全書¶
+　尚書要義巻十三¶
+　　　　　　　　　　　宋　魏了翁　撰¶
+(原闕)¶
+<pb:KR1b0022_WYG_013-1b>¶
